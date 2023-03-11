@@ -1,0 +1,35 @@
+.hover-me:hover {
+    color: red;
+    cursor: pointer;
+  }
+
+
+  .Ghover-me:hover {
+    color: rgb(197, 167, 19);
+    cursor: pointer;
+  }
+
+  
+  .hover-me:hover {
+    text-decoration: underline;
+  }
+  
+  
+  p {
+    color: white;
+    font-size: 30px;
+  }
+  
+  body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  .bordered {
+    border: 4px solid black;
+  }
+  
+  a.hover-link:hover {
+    color: red;
+  }
+  
